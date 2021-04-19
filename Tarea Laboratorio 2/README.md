@@ -14,4 +14,4 @@
 
  ## Ejecución de programa en DOSBOX
 
- ![Ejecucion](https://raw.githubusercontent.com/NNieto25/AC_00199019/tree/master/Tarea%20Laboratorio%202/EjecucionDosBox.jpg)
+![Ejecucion](/EjecucionDosBox.jpg?raw=true "Optional Title")
