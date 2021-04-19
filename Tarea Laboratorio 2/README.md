@@ -11,3 +11,7 @@
  - Copiar el valor de 201h a CX usando direccionamiento indirecto por registro.
  - Copiar el valor de 202h a DX usando direccionamiento indirecto base más índice.
  - Copiar el valor de 203h a DI usando direccionamiento relativo por registro.
+
+ ## Ejecución de programa en DOSBOX
+
+ ![Ejecucion](https://raw.githubusercontent.com/NNieto25/AC_00199019/tree/master/Tarea%20Laboratorio%202/EjecucionDosBox.jpg)
