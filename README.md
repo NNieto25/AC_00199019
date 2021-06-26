@@ -6,3 +6,4 @@ Este repositorio contiene los archivos de los laboratorios de la materia Arquite
 * [Laboratorio 3](https://github.com/NNieto25/AC_00199019/tree/master/Tarea%203)
 * [Laboratorio 4](https://github.com/NNieto25/AC_00199019/tree/master/Tarea%20Laboratorio%204)
 * [Laboratorio 5](https://github.com/NNieto25/AC_00199019/tree/master/Tarea%20Laboratorio%205)
+* [Laboratorio 6](https://github.com/NNieto25/AC_00199019/tree/master/Tarea%20Laboratorio%206)
